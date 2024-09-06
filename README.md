@@ -37,3 +37,5 @@ ruby soccer_challenge.rb soccer.dat
 That's it! Thank you for considering me and I hope you like the logic I've implemented to solve these challenges.
 
 See ya!
+
+P.S: as a Tottenham fan, I feel bad for not seeing them in the first position 😂
